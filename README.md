@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center">i am a student!</h3>
 
-- 📫 How to reach me **filippo.baldi@outlook.com**
+<h3 align="center">- 📫 How to reach me **filippo.baldi@outlook.com**</h3>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
